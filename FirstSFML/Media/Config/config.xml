@@ -1,0 +1,9 @@
+<Keys>
+	<MoveUp>W</MoveUp>
+	<MoveDown>S</MoveDown>
+	<MoveLeft>A</MoveLeft>
+	<MoveRight>D</MoveRight>
+	<Fire>Space</Fire>
+  <LaunchMissile>E</LaunchMissile>
+</Keys>
+
